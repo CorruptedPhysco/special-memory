@@ -1,0 +1,4 @@
+flask
+telebot
+beautifulsoup4
+requests3
