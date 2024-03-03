@@ -3,7 +3,7 @@ import telebot
 from flask import Flask, render_template
 from keep import keep_alive
 keep_alive()
-bot = telebot.TeleBot(os.environ.get('token'))
+bot = telebot.TeleBot('6843685082:AAHeTwi1J9mWBJ93oWPQMEIfh3C-VPgkJNE')
 
 from bs4 import BeautifulSoup
 import requests
